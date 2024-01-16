@@ -1,0 +1,1 @@
+This is simple Fake credit card generator for Visa, MasterCard and AMEX(AmericanExpress). In 'output' folder you can find .exe file to launch in window mode without command line on your PC (no internet connection needed)
